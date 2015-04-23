@@ -74,7 +74,7 @@
                                     <next>
                                       <block type="oled_drawnumber" id="399" inline="true">
                                         <value name="NUMBER">
-                                          <block type="variables_get" id="400">
+                                          <block type="variables_get" id="406">
                                             <field name="VAR">left</field>
                                           </block>
                                         </value>
